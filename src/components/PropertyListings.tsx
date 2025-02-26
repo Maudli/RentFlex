@@ -8,17 +8,17 @@ export const PropertyListings = () => {
     {
       id: 1,
       title: "Modern Downtown Apartment",
-      location: "Financial District",
-      price: "$2,500/month",
+      location: "Indiranagar",
+      price: "₹45,000/month",
       beds: "2",
       baths: "2",
       image: "/lovable-uploads/7ce1ed79-2795-4554-a464-ca3b198f093b.png"
     },
     {
       id: 2,
-      title: "Luxury Waterfront Condo",
-      location: "Harbor View",
-      price: "$3,200/month",
+      title: "Luxury Condo",
+      location: "Electronic City",
+      price: "₹30,000/month",
       beds: "3",
       baths: "2",
       image: "/lovable-uploads/7ce1ed79-2795-4554-a464-ca3b198f093b.png"
@@ -26,8 +26,8 @@ export const PropertyListings = () => {
     {
       id: 3,
       title: "Cozy Studio Apartment",
-      location: "Arts District",
-      price: "$1,800/month",
+      location: "Whitefield",
+      price: "₹20,000/month",
       beds: "1",
       baths: "1",
       image: "/lovable-uploads/7ce1ed79-2795-4554-a464-ca3b198f093b.png"
