@@ -13,7 +13,7 @@ export const Navbar = () => {
         <div className="flex justify-between items-center h-16">
           <div className="flex-shrink-0">
             <Link to="/" className="flex items-center">
-              <img src="/lovable-uploads/7ce1ed79-2795-4554-a464-ca3b198f093b.png" alt="RentFlex Logo" className="h-8 w-auto" />
+              <img src="/lovable-uploads/7ce1ed79-2795-4554-a464-ca3b198f093b.png" alt="RentFlex Logo" className="h-16 w-auto" />
             </Link>
           </div>
           
