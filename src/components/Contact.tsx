@@ -79,9 +79,9 @@ export const Contact = () => {
               <p>
                 <strong className="text-rentflex-dark">Address:</strong>
                 <br />
-                123 Business Avenue
+                CMR Institute of Technology
                 <br />
-                Tech District, CA 94107
+                kundanahalli , 56006
               </p>
               <p>
                 <strong className="text-rentflex-dark">Email:</strong>
@@ -91,7 +91,7 @@ export const Contact = () => {
               <p>
                 <strong className="text-rentflex-dark">Phone:</strong>
                 <br />
-                +1 (555) 123-4567
+                +91 9329944373
               </p>
               <p>
                 <strong className="text-rentflex-dark">Hours:</strong>
